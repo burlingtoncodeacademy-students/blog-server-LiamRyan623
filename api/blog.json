@@ -1,0 +1,35 @@
+[
+    {
+        "post_id": 1,
+        "title": "First Blog Post",
+        "author": "Paul Niemczyk",
+        "body": "These student devs keep getting younger and smarter"
+    },
+    {
+        "postID": 2
+    },
+    {
+        "post_id": 3
+    },
+    {
+        "post_id": 4
+    },
+    {
+        "post_id": 5,
+        "title": "Second blog post",
+        "author": "Ben Villa",
+        "body": "I hope it works."
+    },
+    {
+        "post_id": 6,
+        "title": "Second blog post",
+        "author": "Liam",
+        "body": "I hope it works?"
+    },
+    {
+        "post_id": 7,
+        "title": "Second blog post",
+        "author": "Condor Shields",
+        "body": "Donde estas la zapteria"
+    }
+]
